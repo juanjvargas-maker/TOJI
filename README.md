@@ -26,7 +26,6 @@ Technologies
 - ESP32
 - VL53L0X
 - DRV8833
-- FreeRTOS / Embedded C++
 - Wireless control systems
 - SLAM-inspired navigation concepts
 
